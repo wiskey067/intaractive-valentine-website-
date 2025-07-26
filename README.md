@@ -1,7 +1,7 @@
 💘 Interactive Valentine Website
 
 My First Web Development Project
-🔗 Live Demo
+
 
 This was my first hands-on web project—a fun, interactive Valentine’s Day proposal website designed to practice core front-end skills. Built with HTML, CSS, and JavaScript, the site lets users create playful, personalised messages to ask:
 “Will you be my Valentine?”
